@@ -1,0 +1,39 @@
+body {
+    width: 700px;
+    margin: 0 auto;
+    padding: 100px 0;
+  
+    font-family: serif;
+  
+    background-color: #eee;
+  }
+  
+  h1, h2, h3, h4 {
+    font-weight: normal;
+    text-align: center;
+    color: #646464;
+  }
+  
+  .Table {
+    font-weight: bold;
+    font-size: 70px;
+  }
+  
+  .volume {
+    font-size: 40px;
+  }
+  
+  .part {
+    font-size: 20px;
+  }
+  
+  .chapter {
+    font-size: 18px;
+  }
+  
+  p {
+    text-align: justify;
+    font-size: 16px;
+    color: #333
+  }
+  
